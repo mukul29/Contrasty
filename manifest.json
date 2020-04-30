@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "2.0.3",
+  "name": "Contrasty",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(208, 208, 208)",
+      "toolbar_field_focus": "rgb(230, 230, 230)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "toolbar_field_highlight": "rgb(200, 200, 200)",
+      "toolbar_field_highlight_text": "rgb(0, 0, 0)",
+      "toolbar_bottom_separator": "rgb(45, 45, 45)",
+      "toolbar_field_border_focus": "rgba(0, 0, 0, 0)",
+
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(0, 0, 0)",
+      "popup_highlight_text": "rgb(0, 0, 0)",
+      "popup_highlight": "rgb(200, 200, 200)",
+      "tab_loading": "rgb(0, 0, 0)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_text": "rgb(180, 180, 180)",
+      "sidebar": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(200, 200, 200)",
+      "sidebar_highlight_text": "rgb(0, 0, 0)",
+      "sidebar_text": "rbg(0, 0, 0)"
+    }
+  }
+}
